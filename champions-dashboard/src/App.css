@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;800&family=Roboto:ital,wght@0,100;0,400;1,400&display=swap');
+
+.container{
+    margin: 10px 14px;
+}
+.row{
+    width: 100% !important;
+}
+
+@media (min-width:768px){
+    .container{
+        margin:10px 30px
+    }
+}
